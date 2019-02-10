@@ -1,0 +1,13 @@
+// Bulma customizations
+$info: darkgreen;
+$info-invert: lightyellow;
+
+// Bulma modules
+@import "package:bulma_sass/scss/utilities/_all";
+@import "package:bulma_sass/scss/base/_all";
+@import "package:bulma_sass/scss/elements/_content";
+@import "package:bulma_sass/scss/elements/_title";
+@import "package:bulma_sass/scss/layout/hero";
+
+// Custom SCSS
+@import "_sub.scss";

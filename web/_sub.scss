@@ -1,0 +1,12 @@
+$primary-color: #333;
+$default-font-size: 2em;
+
+body {
+    font-size: $default-font-size;
+}
+
+#output {
+    padding: 20px;
+    text-align: center;
+    color: $primary-color;
+}
