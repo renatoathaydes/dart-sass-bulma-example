@@ -1,4 +1,4 @@
-Example Dart project that use Sass and Bulma. 
+Example Dart project that uses Sass and Bulma. 
 
 See [blog post](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/usingsassandbulmaindartwebprojects#TOC-Using-all-of-Bulma)
 explaining how this works.
